@@ -6,7 +6,7 @@ site_url: https://madibagroup.github.io/TokenHandbook/
 # Repository
 repo_name: MadibaGroup/TokenHandbook/
 repo_url: https://github.com/MadibaGroup/TokenHandbook/
-edit_uri: ""
+# edit_uri: ""
 
 # Copyright
 copyright: 'Copyright &copy; 2019 Madiba Group'
