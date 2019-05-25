@@ -1,0 +1,101 @@
+site_name: ERC-20 Token Audit Handbook
+site_description: A handbook for practitioners to audit ERC20 tokens
+site_author: Shayan Eskandari
+site_url: https://madibagroup.github.io/TokenHandbook/
+
+# Repository
+repo_name: MadibaGroup/TokenHandbook/
+repo_url: https://github.com/MadibaGroup/TokenHandbook/
+edit_uri: ""
+
+# Copyright
+copyright: 'Copyright &copy; 2019 Madiba Group'
+
+# Configuration
+theme:
+  name: material
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  feature:
+    tabs: true
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/favicon.png
+  logo:
+    icon: "\uE80C"
+
+# Customization
+extra:
+  social:
+    - type: globe
+      link: https://madiba.encs.concordia.ca
+
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+nav:
+  - Material: index.md
+  # - Getting started: getting-started.md
+  # - Extensions:
+  #   - Admonition: extensions/admonition.md
+  #   - CodeHilite: extensions/codehilite.md
+  #   - Footnotes: extensions/footnotes.md
+  #   - Metadata: extensions/metadata.md
+  #   - Permalinks: extensions/permalinks.md
+  #   - PyMdown: extensions/pymdown.md
+  # - Specimen: specimen.md
+  # - Customization: customization.md
+  # - Compliance with GDPR: compliance.md
+  # - Release notes: release-notes.md
+  # - Author's notes: authors-notes.md
+  # - Contributing: contributing.md
+  # - License: license.md
+
+# Google Analytics
+# google_analytics:
+#   - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+#   - auto
