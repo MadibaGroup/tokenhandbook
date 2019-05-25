@@ -13,7 +13,7 @@ copyright: 'Copyright &copy; 2019 Madiba Group'
 
 # Configuration
 theme:
-  name: material
+  name: null
   custom_dir: material
 
   # 404 page
@@ -21,8 +21,8 @@ theme:
     - 404.html
 
   # Don't include MkDocs' JavaScript
-  include_search_page: false
-  search_index_only: true
+  include_search_page: true
+  search_index_only: false
 
   # Default values, taken from mkdocs_theme.yml
   language: en
@@ -78,15 +78,18 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Material: index.md
-  # - Getting started: getting-started.md
-  # - Extensions:
-  #   - Admonition: extensions/admonition.md
-  #   - CodeHilite: extensions/codehilite.md
-  #   - Footnotes: extensions/footnotes.md
-  #   - Metadata: extensions/metadata.md
-  #   - Permalinks: extensions/permalinks.md
-  #   - PyMdown: extensions/pymdown.md
+  - Index: index.md
+  - Sections:
+    - Index: sections/index.md
+    - Background: sections/00-background/index.md
+    - Valuation: sections/01-valuation/index.md
+    - Existence: sections/02-existence/index.md
+    - Ownership: sections/03-ownership/index.md
+    - Presentation: sections/04-presentation/index.md
+    - Uncategorized: sections/05-uncategorized/index.md
+
+  - Module Skeleton: module-blank.md
+
   # - Specimen: specimen.md
   # - Customization: customization.md
   # - Compliance with GDPR: compliance.md

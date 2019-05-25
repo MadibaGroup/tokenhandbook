@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# ERC-20 Token Audit Handbook
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
 
-## Commands
+## Structure
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+- [index](index.md) is this file.
+- [Sections](sections) are each section from the mindmap. 
+- [Module Skeleton](module-blank.md) is the skeleton for the modules
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
