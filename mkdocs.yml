@@ -79,14 +79,14 @@ markdown_extensions:
 # Page tree
 nav:
   - Index: index.md
-  - Sections:
-    - Index: sections/index.md
-    - Background: sections/00-background/index.md
-    - Valuation: sections/01-valuation/index.md
-    - Existence: sections/02-existence/index.md
-    - Ownership: sections/03-ownership/index.md
-    - Presentation: sections/04-presentation/index.md
-    - Uncategorized: sections/05-uncategorized/index.md
+  # - Sections:
+  #   - Index: sections/index.md
+  - Background: sections/00-background/index.md
+  - Valuation: sections/01-valuation/index.md
+  - Existence: sections/02-existence/index.md
+  - Ownership: sections/03-ownership/index.md
+  - Presentation: sections/04-presentation/index.md
+  - Uncategorized: sections/05-uncategorized/index.md
 
   - Module Skeleton: module-blank.md
 
