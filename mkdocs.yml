@@ -1,11 +1,11 @@
-site_name: ERC-20 Token Audit Handbook
-site_description: A handbook for practitioners to audit ERC20 tokens
+site_name: Token Audit Handbook
+site_description: A handbook for practitioners to audit tokens (crypto-assets)
 site_author: Shayan Eskandari
-site_url: https://madibagroup.github.io/TokenHandbook/
+site_url: https://madibagroup.github.io/tokenhandbook/
 
 # Repository
-repo_name: MadibaGroup/TokenHandbook/
-repo_url: https://github.com/MadibaGroup/TokenHandbook/
+repo_name: MadibaGroup/tokenhandbook/
+repo_url: https://github.com/MadibaGroup/tokenhandbook/
 # edit_uri: ""
 
 # Copyright
@@ -81,14 +81,42 @@ nav:
   - Index: index.md
   # - Sections:
   #   - Index: sections/index.md
-  - Background: sections/00-background/index.md
-  - Valuation: sections/01-valuation/index.md
-  - Existence: sections/02-existence/index.md
-  - Ownership: sections/03-ownership/index.md
-  - Presentation: sections/04-presentation/index.md
-  - Uncategorized: sections/05-uncategorized/index.md
+  - Background: 00-background/index.md
+  - Valuation: 
+      - Index: 01-valuation/01-index.md 
+      - Fair Value: 01-valuation/02-Fair Value.md 
+      - Liquidity: 01-valuation/03-Liquidity.md 
+      - Financial Modelling: 01-valuation/04-Financial Modelling.md 
+      - Bans: 01-valuation/05-Bans.md 
+      - Cut-off: 01-valuation/06-Cut-off.md 
+      - Geographical Variation: 01-valuation/07-Geographical Variation.md 
+      - Fungibility: 01-valuation/08-Fungibility.md 
+      - Financial Projections: 01-valuation/09-Financial Projections.md 
+      - Volatility: 01-valuation/10-Volatility.md 
+      - Going Concern: 01-valuation/11-Going Concern.md 
+  - Existence: 
+      - Index: 02-existence/01-index.md 
+      - Meta Information: 02-existence/02-Meta Information.md 
+      - Off-blockchian Transactions: 02-existence/03-Off-blockchian Transactions.md 
+      - Finality: 02-existence/04-Finality.md 
+      - Completeness: 02-existence/05-Completeness.md 
+      - Transaction Complexity: 02-existence/06-Transaction Complexity.md 
+      - Transaction Pointers: 02-existence/07-Transaction Pointers.md 
+  - Ownership: 
+      - Index: 03-ownership/01-index.md 
+      - Custodianship: 03-ownership/02-Custodianship.md 
+      - Account Balances: 03-ownership/03-Account Balances.md 
+      - Cryptographic Key ownership: 03-ownership/04-Cryptographic Key ownership.md 
+      - Balance itself: 03-ownership/05-Balance itself.md 
+      - Design Transparency: 03-ownership/06-Design Transparency.md 
+      - Related Party Transaction: 03-ownership/07-Related Party Transaction.md 
+  - Presentation: 
+      - Index: 04-presentation/01-index.md 
+      - Reporting Standard: 04-presentation/02-Reporting Standard.md 
+      - Legal status: 04-presentation/03-Legal status.md 
 
-  - Module Skeleton: module-blank.md
+  - Uncategorized: 05-uncategorized/index.md
+  #- Module Skeleton: module-blank.md
 
   # - Specimen: specimen.md
   # - Customization: customization.md

@@ -1,7 +1,9 @@
 # Existence
 
-{For any of the modules please duplicate [module-blank.md](module-blank.md) and fill it out.}
-{Text here}
+
+{Description on Existence here}
+
+This is the index file. For any sections below please click on the index on the left and navigate from there.
 
 
 ## Meta Information
