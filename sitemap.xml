@@ -6,37 +6,152 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://madibagroup.github.io/tokenhandbook/sections/00-background/</loc>
+     <loc>https://madibagroup.github.io/tokenhandbook/00-background/</loc>
      <lastmod>2019-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://madibagroup.github.io/tokenhandbook/sections/01-valuation/</loc>
+     <loc>https://madibagroup.github.io/tokenhandbook/01-valuation/01-index/</loc>
      <lastmod>2019-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://madibagroup.github.io/tokenhandbook/sections/02-existence/</loc>
+     <loc>https://madibagroup.github.io/tokenhandbook/01-valuation/02-Fair Value/</loc>
      <lastmod>2019-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://madibagroup.github.io/tokenhandbook/sections/03-ownership/</loc>
+     <loc>https://madibagroup.github.io/tokenhandbook/01-valuation/03-Liquidity/</loc>
      <lastmod>2019-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://madibagroup.github.io/tokenhandbook/sections/04-presentation/</loc>
+     <loc>https://madibagroup.github.io/tokenhandbook/01-valuation/04-Financial Modelling/</loc>
      <lastmod>2019-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://madibagroup.github.io/tokenhandbook/sections/05-uncategorized/</loc>
+     <loc>https://madibagroup.github.io/tokenhandbook/01-valuation/05-Bans/</loc>
      <lastmod>2019-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://madibagroup.github.io/tokenhandbook/module-blank/</loc>
+     <loc>https://madibagroup.github.io/tokenhandbook/01-valuation/06-Cut-off/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/01-valuation/07-Geographical Variation/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/01-valuation/08-Fungibility/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/01-valuation/09-Financial Projections/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/01-valuation/10-Volatility/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/01-valuation/11-Going Concern/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/02-existence/01-index/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/02-existence/02-Meta Information/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/02-existence/03-Off-blockchian Transactions/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/02-existence/04-Finality/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/02-existence/05-Completeness/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/02-existence/06-Transaction Complexity/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/02-existence/07-Transaction Pointers/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/03-ownership/01-index/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/03-ownership/02-Custodianship/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/03-ownership/03-Account Balances/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/03-ownership/04-Cryptographic Key ownership/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/03-ownership/05-Balance itself/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/03-ownership/06-Design Transparency/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/03-ownership/07-Related Party Transaction/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/04-presentation/01-index/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/04-presentation/02-Reporting Standard/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/04-presentation/03-Legal status/</loc>
+     <lastmod>2019-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://madibagroup.github.io/tokenhandbook/05-uncategorized/</loc>
      <lastmod>2019-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
